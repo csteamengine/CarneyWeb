@@ -41,11 +41,11 @@
             <ul class="nav navbar-nav">
                 <li><a href="index.php">Home</a></li>
                 <li class="dropdown">
-                    <a href="Portfolio.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Portfolio<span class="caret"></span></a>
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Find a Part<span class="caret"></span></a>
                     <ul class="dropdown-menu">
-                        <li><a href="Websites.php">Websites</a></li>
-                        <li role="separator" class="divider"></li>
-                        <li><a href="Software.php">Software</a></li>
+                        <li><a href="https://carneyautoparts.hollanderstores.com">Full Inventory</a></li>
+                        <li class="divider"><hr></li>
+                        <li><a href="http://stores.ebay.com/carneyautoparts">Ebay Listings</a></li>
                     </ul>
                 </li>
                 <li><a href="About.php">About</a></li>

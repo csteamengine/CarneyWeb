@@ -23,26 +23,22 @@
         <div id="footer">
             <div class="footerFloat">
                 <h4><a href="index.php" style="text-decoration:underline;">Home</a></h4>
-                <p>Visit my home page for an overview of myself, my website and more!</p>
             </div>
             <div class="footerFloat">
-                <h4><a href="Portfolio.php" style="text-decoration:underline;">Portfolio</a></h4>
-                <p><a href="Websites.php">Websites</a></p>
-                <p><a href="Software.php">Software</a></p>
-                <p><a href="Hardware.php">Hardware</a></p>
+                <h4 style="text-decoration:underline;"><a href="Contact.php">Contact Us</a></h4>
             </div>
             <div class="footerFloat">
-                <h4 style="text-decoration:underline;"><a href="About.php">About</a></h4>
-                <p>Visit this page to learn more about my skills and accomplishments.</p>
+                <h4><a href="About.php" style="text-decoration:underline;">About Us</a></h4>
             </div>
             <div class="footerFloat">
-                <h4><a href="Contact.php" style="text-decoration:underline;">Contact</a></h4>
-                <p>For any questions regarding my website, don't hesitate to contact me!</p>
+                <h4><a href="#" style="text-decoration:underline;">Careers</a></h4>
             </div>
         </div>
     </div>
-
+    <div class="hours"><h5>Hours: <br>M-F: 8-5:30, <br>Sat: 8-Noon, <br>Closed On Sunday</h5></div>
+    <div class="statement"><h5 style="position: relative;bottom: -5px;">All contents © 2015 Jerry Carney & Sons</h5></div>
 </footer>
+
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed -->

@@ -89,6 +89,7 @@ nav{
     color: #28903b;
     width: 100%;
 }
+
 .banner{
     background-color:rgba(11, 11, 59, .85);
     margin-top: -25px;
@@ -101,6 +102,7 @@ nav{
 .header{
     background-color:rgba(11, 11, 59, .85);
 }
+
 
 /* navbar  background color and border color*/
 .navbar-default {
@@ -223,7 +225,7 @@ footer{
     color:white;
     bottom: 0;
     width: 100%;
-    height: 160px;
+    height: 180px;
     opacity: .85;
     background-color: #0B0B3B;
 
@@ -240,7 +242,9 @@ footer a{
     max-width: 980px;
     margin: auto;
 }
-
+.hours{
+    padding-top: 5%;
+}
 
 .footerFloat {
     width: 25%;
